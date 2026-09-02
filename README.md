@@ -2,5 +2,6 @@
 
 ### Arrays & Hashing (1/9)
 - [x] Contains Duplicate
-- [ ] Valid Anagram
+- [x] Valid Anagram
 - [ ] Two Sum
+- [ ] Group Anagrams
