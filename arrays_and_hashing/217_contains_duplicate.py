@@ -1,5 +1,6 @@
 """
-217. Contains Duplicate
+217. Contains Duplicate 
+09/01/26
 
 Approach:
 Loop through array once, keep track of encountered numbers 
