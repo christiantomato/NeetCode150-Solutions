@@ -6,7 +6,7 @@ Approach:
 Keep track of frequency using a hash dictionary where the key is the letter, 
 and the data is the frequency. Serendipitously, Python has a library for this.
 
-Time Complexity: O(N)
+Time Complexity: O(n)
 Space Complexity: O(1)
 """
 
