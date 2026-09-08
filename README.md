@@ -1,6 +1,6 @@
 ## Progress
 
-### Arrays & Hashing (5/9)
+### Arrays & Hashing (6/9)
 - [x] Contains Duplicate
 - [x] Valid Anagram
 - [x] Two Sum
