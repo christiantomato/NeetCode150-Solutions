@@ -1,12 +1,12 @@
 ## Progress
 
-### Arrays & Hashing (6/9)
+### Arrays & Hashing (7/9)
 - [x] Contains Duplicate
 - [x] Valid Anagram
 - [x] Two Sum
 - [x] Group Anagrams
 - [x] Top k Frequent Elements
 - [x] Encode and Decode Strings
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Valid Sudoku
 - [ ] Longest Consecutive Sequence
