@@ -1,6 +1,6 @@
 ## Progress
 
-### Arrays & Hashing (8/9)
+### Arrays & Hashing (9/9)
 - [x] Contains Duplicate
 - [x] Valid Anagram
 - [x] Two Sum
@@ -9,7 +9,7 @@
 - [x] Encode and Decode Strings
 - [x] Product of Array Except Self
 - [x] Valid Sudoku
-- [ ] Longest Consecutive Sequence
+- [x] Longest Consecutive Sequence
 
 ### Stack (0/6)
 - [ ] Valid Parentheses
