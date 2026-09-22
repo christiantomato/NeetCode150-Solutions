@@ -11,8 +11,8 @@
 - [x] Valid Sudoku
 - [x] Longest Consecutive Sequence
 
-### Stack (0/6)
-- [ ] Valid Parentheses
+### Stack (1/6)
+- [x] Valid Parentheses
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Daily Temperatures
