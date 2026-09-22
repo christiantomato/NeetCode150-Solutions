@@ -22,9 +22,6 @@ class Solution:
     
         stack = []
 
-        #flag for confirming brackets get closed
-        bracket_closed = False
-
         for str in s:
             if str == '(' or str == '{' or str == '[':
                 #push it onto the stack
@@ -35,11 +32,8 @@ class Solution:
                 if(len(stack) == 0): return False
                 #check if it matches the left bracket type on top of the stack
                 if(bracket_map[stack.pop()] == str):
-                    bracket_closed = True
                     continue 
                 else: return False
 
-        #check if everything was popped
-        if(len(stack) != 0): return False
-
-        return bracket_closed
+        #make sure everything got paired
+        return len(stack) == 0
